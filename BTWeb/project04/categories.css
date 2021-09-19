@@ -1,0 +1,116 @@
+.logo{
+    width: 100%;
+}
+.logovsmenu{
+    display: inline;
+}
+.menu{
+    float: right;
+}
+.menu a{
+    text-decoration: none;
+    font-size: 25px;
+    color: palevioletred;
+    padding: 10px;
+}
+.exFood{
+    text-align: center;
+}
+.imagesfood{
+    display:flex;
+    justify-content: center;
+    color:white;
+    font-size: 30px;
+}
+.burgerfood {
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: center;
+}
+.imagesfood h2{
+    transform: translate(0, -300%);
+}
+.pizzafood {
+    text-align: center;
+}
+.momofood {
+    text-align: center;
+}
+.imagesfood img{
+    border-radius: 20px;
+    width: 100%;
+}
+.imagesfood1{
+    display:flex;
+    justify-content: center;
+    color:white;
+    font-size: 30px;
+}
+.burgerfood1 {
+    padding: 0 5% 0 5%;
+    text-align: center;
+}
+.imagesfood1 h2{
+    transform: translate(0, -300%);
+}
+.pizzafood {
+    text-align: center;
+}
+.momofood1 {
+    text-align: center;
+}
+.imagesfood1 img{
+    border-radius: 20px;
+    width: 100%;
+}
+
+.imagesfood2{
+    display:flex;
+    justify-content: center;
+    color:white;
+    font-size: 30px;
+}
+.burgerfood2 {
+    padding: 0 5% 0 5%;
+    text-align: center;
+}
+.imagesfood2 h2{
+    transform: translate(0, -300%);
+}
+.pizzafood2 {
+    text-align: center;
+}
+.momofood2 {
+    text-align: center;
+}
+.imagesfood2 img{
+    border-radius: 20px;
+    width: 100%;
+}
+
+.imagesfood3{
+    display:flex;
+    justify-content: center;
+    color:white;
+    font-size: 30px;
+}
+.burgerfood3 {
+    padding: 0 5% 0 5%;
+    text-align: center;
+}
+.imagesfood3 h2{
+    transform: translate(0, -300%);
+}
+.pizzafood3 {
+    text-align: center;
+}
+.momofood3 {
+    text-align: center;
+}
+.imagesfood3 img{
+    border-radius: 20px;
+    width: 100%;
+}
+.icon{
+    text-align: center;
+}

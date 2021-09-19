@@ -1,0 +1,72 @@
+.logo{
+    width: 100%;
+}
+.logovsmenu{
+    display: inline;
+}
+.menu{
+    float: right;
+}
+.menu a{
+    text-decoration: none;
+    font-size: 25px;
+    color: palevioletred;
+    padding: 10px;
+}
+.keyword{
+    color: white;
+    text-align: center;
+    padding-top: 5%;
+}
+.orderfood{
+    width: 100%;
+    height: auto;
+   background-image:url(images/bg.jpg);
+   background-size: cover;
+}
+.food img {
+    padding: 30px;
+    max-width: 100px;
+    border-radius: 50px;
+    float: left;
+}
+.sf{
+    width: 30%;
+    height: 20%;
+    margin-left: 35%;
+}
+.foodtitle{
+    margin-left: 40%;
+}
+fieldset{
+    border-radius: 5%;
+    border-color: white;
+    font-size: 25px;
+}
+.add{
+    width: 30%;
+    height: 20%;
+    margin-left: 35%;
+    padding-top: 5%;
+}
+.formaddress{
+ font-size: 25px;
+}
+#dc{
+    width: 80%;
+    height: 80px;
+}
+.test{
+    margin-left: 10%;
+}
+.formaddress button{
+ background-color: rgb(216, 49, 105);
+border-radius: 10%;
+width: 20%;
+height: 10%;
+margin-left: 10%;
+}
+.icon{
+    text-align: center;
+}
+
